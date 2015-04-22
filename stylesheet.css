@@ -28,11 +28,22 @@ h3{
 	color : #16a085;
 }
 
+#blockline{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -15.5em;
+	margin-left: -50em;
+	width: 100em;
+	height: 40em;
+}
+
 .blocks{
 	display: inline-block;
 	height : 3em;
 	width : 3em;
 	background-color : #e74c3c;
+	align:center;
 }
 
 #facebook{
