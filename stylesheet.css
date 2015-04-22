@@ -9,6 +9,12 @@ h1{
 	text-align : center;
 }
 
+h2{
+	font-size: 2em;
+	color : #8e44ad;
+	text-align : center;
+}
+
 p{
 	font-size : 1em;
 	color : #ecf0f1;
@@ -22,7 +28,8 @@ h3{
 	color : #16a085;
 }
 
-div{
+.blocks{
+	display: inline-block;
 	height : 3em;
 	width : 3em;
 	background-color : #e74c3c;
@@ -37,6 +44,7 @@ div{
 	border-radius : 1.5em;
 
 	margin : auto;
+
 	text-align : center;
 }
 
@@ -44,5 +52,5 @@ div{
 	text-decoration : none;
 	font-size : 2em;
 	color : white;
-		
+
 }
